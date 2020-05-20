@@ -25,7 +25,7 @@ cat input/input1.txt | python main_defender_arcade.py
 ```bash
 cat input/input1.txt | python main_royal_rumble.py
 ```
- > Note: **DO NOT** forget to go to each solution folder (`royal_rumble` folder or `defender_arcade` folder from the `armillary` folder) first (change directory `cd`) before you run the two commands above.
+ > Note: **DO NOT** forget to go to each solution folder (`royal_rumble` folder or `defender_arcade` folder from the `interview` folder) first (change directory `cd`) before you run the two commands above.
 
 By using this statement you pass the data by using cat and transfer them into `STDIN` and then the script will consume them at all. You can pass argument `-o` to write the result to the `output` folder (your new output file will available in `output_{timstamps}`.txt format). If you dont pass the `-o` argument, the output will only be printed to the screen not written to the file. Sample command with `-o` statement:
 
