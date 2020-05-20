@@ -1,0 +1,44 @@
+2020-02-23 14:16:05.048 ERROR royal_rumble - string_to_roman_number: Invalid Roman character louis
+2020-02-23 14:16:05.049 DEBUG royal_rumble - transform_name: transform name Louis to pseudoname Louis
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Word: ix
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 0: pick i-th char i
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 0: temp_val 1
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 0: -1
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 0: result -1
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 1: pick i-th char x
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 1: temp_val 10
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 1: +10
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 1: result 9
+2020-02-23 14:16:05.049 DEBUG royal_rumble - transform_name: transform name IX to pseudoname 9
+2020-02-23 14:16:05.049 ERROR royal_rumble - string_to_roman_number: Invalid Roman character louis
+2020-02-23 14:16:05.049 DEBUG royal_rumble - transform_name: transform name Louis to pseudoname Louis
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Word: viii
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 0: pick i-th char v
+2020-02-23 14:16:05.049 DEBUG royal_rumble - string_to_roman_number: Step 0: temp_val 5
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 0: +5
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 0: result 5
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 1: pick i-th char i
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 1: temp_val 1
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 1: +1
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 1: result 6
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 2: pick i-th char i
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 2: temp_val 1
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 2: +1
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 2: result 7
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 3: pick i-th char i
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 3: temp_val 1
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 3: +1
+2020-02-23 14:16:05.050 DEBUG royal_rumble - string_to_roman_number: Step 3: result 8
+2020-02-23 14:16:05.050 DEBUG royal_rumble - transform_name: transform name VIII to pseudoname 8
+2020-02-23 14:16:05.051 ERROR royal_rumble - string_to_roman_number: Invalid Roman character david
+2020-02-23 14:16:05.051 DEBUG royal_rumble - transform_name: transform name David to pseudoname David
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Word: ii
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 0: pick i-th char i
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 0: temp_val 1
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 0: +1
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 0: result 1
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 1: pick i-th char i
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 1: temp_val 1
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 1: +1
+2020-02-23 14:16:05.051 DEBUG royal_rumble - string_to_roman_number: Step 1: result 2
+2020-02-23 14:16:05.051 DEBUG royal_rumble - transform_name: transform name II to pseudoname 2

@@ -1,0 +1,5 @@
+2020-02-23 15:19:44.541 DEBUG defender_arcade - overlap: 900910#9401200 => False
+2020-02-23 15:19:44.541 DEBUG defender_arcade - overlap: 9401200#9501120 => True
+2020-02-23 15:19:44.541 DEBUG defender_arcade - overlap: 9501120#11001130 => True
+2020-02-23 15:19:44.541 DEBUG defender_arcade - overlap: 11001130#13001400 => False
+2020-02-23 15:19:44.541 DEBUG defender_arcade - overlap: 13001400#13501420 => True
